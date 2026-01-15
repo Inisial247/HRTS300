@@ -1,9 +1,15 @@
-Jalankan perintah berikut di terminal:
+🚀 Instalasi (User / Client)
 
+Jalankan perintah berikut satu per satu di terminal.
+
+1️⃣ Clone repository
 git clone https://github.com/Inisial247/HRTS300.git
-cd HRTS300
-chmod +x *.sh
-./install.sh
 
-Jika muncul error permission, jalankan:
-sudo ./install.sh
+2️⃣ Masuk ke folder project
+cd HRTS300
+
+3️⃣ Beri izin eksekusi pada script
+chmod +x *.sh
+
+4️⃣ Jalankan installer
+./install.sh
